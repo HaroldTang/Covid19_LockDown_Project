@@ -1,0 +1,37 @@
+series_id,unemployment_industry
+LNU03000000,Unemployment Level
+LNU03032229,Nonagriculture industries
+LNU03032230,"Mining, quarrying, and oil and gas extraction"
+LNU03032231,Construction
+LNU03032232,Manufacturing
+LNU03032233,Durable goods manufacturing
+LNU03032234,Nondurable goods manufacturing
+LNU03032235,Wholesale and retail trade
+LNU03032236,Transportation and utilities
+LNU03032237,Information
+LNU03032238,Financial activities
+LNU03032239,Professional and business services
+LNU03032240,Education and health services
+LNU03032241,Leisure and hospitality
+LNU03032242,Other services
+LNU03035109,"Agriculture, forestry, fishing, and hunting"
+LNU03028615,All Industries Government Wage & Salary Workers
+LNU03035181,"Self-employed unincorporated, and unpaid family workers"
+LNU04000000,Unemployment rate
+LNU04032229,Nonagriculture industries
+LNU04032230,"Mining, quarrying, and oil and gas extraction"
+LNU04032231,Construction
+LNU04032232,Manufacturing
+LNU04032233,Durable goods manufacturing
+LNU04032234,Nondurable goods manufacturing
+LNU04032235,Wholesale and retail trade
+LNU04032236,Transportation and utilities
+LNU04032237,Information
+LNU04032238,Financial activities
+LNU04032239,Professional and business services
+LNU04032240,Education and health services
+LNU04032241,Leisure and hospitality
+LNU04032242,Other services
+LNU04035109,"Agriculture, forestry, fishing, and hunting"
+LNU04028615,All Industries Government Wage & Salary Workers
+LNU04035181,"Self-employed unincorporated, and unpaid family workers"
