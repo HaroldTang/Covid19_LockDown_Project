@@ -1,9 +1,9 @@
 # Covid_19_LockDown_Project
 ## What’s the impact of the “lockdown” policy?
 ### Economy:
-- Stock market change in different industries: travel / retail / online meeting / game / delivery / hotel / etc.
-  datasets:
-  https://finance.yahoo.com/
+- Stock market change in different industries: travel / retail / online meeting / game / delivery / hotel / etc.//
+  datasets://
+  https://finance.yahoo.com/ //
 
 - unemployment / employment in different industries
   datasets:
