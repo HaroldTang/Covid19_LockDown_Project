@@ -27,7 +27,7 @@
 - Mobility: 
 
 
-  - Mobility changes before and after lockdown policy released in different cities
+  Mobility changes before and after lockdown policy released in different cities
   
   
   datasets:
