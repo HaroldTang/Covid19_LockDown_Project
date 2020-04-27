@@ -6,7 +6,7 @@ from pyspark import SparkContext
 
 sc = SparkContext()
 spark = SparkSession.builder.appName("project").config("spark.some.config.option", "some-value").getOrCreate()
-dl_mobility_df = spark.read.format('csv').options(header = 'true', inferschema = 'true').load(sys.argv[1])
+dl_mobility_df = spark.read.format('csv').options(header = 'true', inferschema = 'true').load("/user/xt544/DL-us-mobility-daterow.csv")
 dl_mobility_df.createOrReplaceTempView("dl")
 drop_state = ['country_code','admin_level','admin2']
 drop_county = ['country_code','admin_level']
