@@ -3,7 +3,7 @@ from pyspark.sql.functions import *
 from pyspark import SparkContext
 sc = SparkContext()
 spark = SparkSession.builder.appName("project").config("spark.some.config.option", "some-value").getOrCreate()
-apple_mobility_df = spark.read.format('csv').options(header = 'true', inferschema = 'true').load("applemobilitytrends-2020-04-25.csv")
+apple_mobility_df = spark.read.format('csv').options(header = 'true', inferschema = 'true').load("/user/xt544/applemobilitytrends-2020-04-25.csv")
 apple_mobility_df.createOrReplaceTempView("apple")
 
 # drop country/region other than the united states
