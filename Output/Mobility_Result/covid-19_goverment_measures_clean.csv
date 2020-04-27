@@ -1,0 +1,18 @@
+,ADMIN_LEVEL_NAME,CATEGORY,MEASURE,DATE_IMPLEMENTED,ENTRY_DATE
+0,State,Movement restrictions,Visa restrictions,14/03/2020,15/03/2020
+1,State,Social distancing,Limit public gatherings,11/03/2020,26/03/2020
+2,State,Movement restrictions,Visa restrictions,31/01/2020,26/03/2020
+3,State,Social distancing,Schools closure ,13/03/2020,26/03/2020
+4,State,Movement restrictions,Visa restrictions,14/03/2020,26/03/2020
+5,State,Movement restrictions,Border closure ,20/03/2020,26/03/2020
+6,State,Movement restrictions,Border closure ,09/04/2020,21/04/2020
+7,State,Movement restrictions,Surveillance and monitoring,20/04/2020,21/04/2020
+8,State,Movement restrictions,Visa restrictions,22/04/2020,21/04/2020
+9,Florida,Social distancing,Public services closure ,20/03/2020,21/04/2020
+10,Native Tribes,Social distancing,Limit public gatherings,24/03/2020,21/04/2020
+11,Native Tribes,Movement restrictions,Surveillance and monitoring,24/03/2020,21/04/2020
+12,New York,Movement restrictions,Surveillance and monitoring,29/03/2020,21/04/2020
+13,Native Tribes,Movement restrictions,Surveillance and monitoring,03/04/2020,21/04/2020
+14,Native Tribes,Movement restrictions,Surveillance and monitoring,29/04/2020,21/04/2020
+15,Native Tribes,Movement restrictions,Surveillance and monitoring,14/02/2020,21/04/2020
+16,Native Tribes,Social distancing,Public services closure ,10/03/2020,21/04/2020
